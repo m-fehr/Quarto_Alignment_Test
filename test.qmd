@@ -1,0 +1,13 @@
+---
+title: "Quarto Testfile"
+format: pdf
+---
+
+# Test alignment to the right
+
+![dummy image](test_image.jpg){fig-align="left" #fig-logol  width=4in}update quarto
+
+![dummy image](test_image.jpg){fig-align="center" #fig-logoc  width=4in}
+
+![dummy image](test_image.jpg){fig-align="right" #fig-logor  width=4in}
+ 
